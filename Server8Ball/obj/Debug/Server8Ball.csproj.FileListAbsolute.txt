@@ -1,0 +1,7 @@
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\bin\Debug\Server8Ball.exe.config
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\bin\Debug\Server8Ball.exe
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\bin\Debug\Server8Ball.pdb
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\obj\Debug\Server8Ball.csprojResolveAssemblyReference.cache
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\obj\Debug\Server8Ball.csproj.CoreCompileInputs.cache
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\obj\Debug\Server8Ball.exe
+C:\Users\10814854\source\repos\Server8Ball\Server8Ball\obj\Debug\Server8Ball.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server8Ball", "Server8Ball\Server8Ball.csproj", "{FD4396F0-F6BF-424C-A0AD-755A0565EACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client8Ball", "Client8Ball\Client8Ball.csproj", "{B949BEA8-3026-4082-8815-B4E60D3B4DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4396F0-F6BF-424C-A0AD-755A0565EACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4396F0-F6BF-424C-A0AD-755A0565EACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4396F0-F6BF-424C-A0AD-755A0565EACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4396F0-F6BF-424C-A0AD-755A0565EACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B949BEA8-3026-4082-8815-B4E60D3B4DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B949BEA8-3026-4082-8815-B4E60D3B4DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B949BEA8-3026-4082-8815-B4E60D3B4DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B949BEA8-3026-4082-8815-B4E60D3B4DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9638F9-54F7-4649-8D32-3D7653D9F78F}
+	EndGlobalSection
+EndGlobal

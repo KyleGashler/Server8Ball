@@ -1,0 +1,10 @@
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\bin\Debug\Client8Ball.exe.config
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\bin\Debug\Client8Ball.exe
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\bin\Debug\Client8Ball.pdb
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.csprojResolveAssemblyReference.cache
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.Form1.resources
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.Properties.Resources.resources
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.csproj.GenerateResource.Cache
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.csproj.CoreCompileInputs.cache
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.exe
+C:\Users\10814854\source\repos\Server8Ball\Client8Ball\obj\Debug\Client8Ball.pdb
